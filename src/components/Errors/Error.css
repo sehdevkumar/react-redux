@@ -1,0 +1,8 @@
+.error-message{
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    color: whitesmoke;
+    background: tomato;
+    border-radius: .54rem;
+}
